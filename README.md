@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/parth_982_" target="blank"><img src="https://img.shields.io/twitter/follow/parth_982_?logo=twitter&style=for-the-badge" alt="parth_982_" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning.**
+- 🌱 I’m currently learning **Machine Learning, Typescript.**
 
 - 💬 Ask me about **MERN Stack.**
 
