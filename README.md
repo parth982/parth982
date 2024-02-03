@@ -6,7 +6,6 @@ Parth</a></h1>
 </a>
 
 ## About Me 🚀
-- 🔭 I’m currently working in <a href="https://sustainiam.com" target="_blank">Sustainiam</a>
 
 - 🌱 I’m a Pre-final Student pursuing my Bachelor's in Computer Science.
 
