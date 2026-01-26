@@ -7,7 +7,7 @@ Parth</a></h1>
 
 ## About Me 🚀
 
-- 🌱 Backend developer working with **Kubernetes** & **OpenShift**
+- 🌱 Backend developer working with **Kubernetes** and **OpenShift**
 
 - 🌐 Currently learning **Go** and **gRPC**
 
