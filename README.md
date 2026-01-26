@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm <a href="[https://parth982.github.io/Me.io/](https://github.com/parth982)" target="blank">
 Parth</a></h1>
-<h3 align="center">A Full-Stack Developer from Pune, India</h3>
+<h3 align="center">Backend Developer</h3>
 <a target="_blank" align="center">
   <img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=420/>
 </a>
 
 ## About Me 🚀
 
-- 🌱 I’m a Pre-final Student pursuing my Bachelor's in Computer Science.
+- 🌱 Backend developer working with **Kubernetes** & **OpenShift**
 
-- 🌐 Proficient Full Stack Web Developer.
+- 🌐 Currently learning **Go** and **gRPC**
 
-- 💻 I'm interested in exploring new technologies and expanding my skill set.
-  
-- 📚 I have a good grasp over Data Structures and Algorithms. 
+- 💻 Interested in **cloud and storage systems**
+
+- 📚 Always ready to Learn new stuff !
 
   <br/>
   <br/>
@@ -25,7 +25,7 @@ Parth</a></h1>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,express,nodejs,github,html,idea,java,js,linux,md,materialui,mongodb,mysql,nextjs,postman,py,react,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,java,go,js,bash,kubernetes,openshift,docker,aws,terraform,git,mongodb,mysql,redis,prometheus,grafana,linux&perline=9" />
   </a>
 </p>
 
@@ -40,3 +40,4 @@ Parth</a></h1>
   <a href="https://twitter.com/parth_982_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40"  /></a>
   <a href="https://leetcode.com/parth982/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 </div>
+   
